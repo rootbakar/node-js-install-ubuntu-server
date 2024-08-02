@@ -1,4 +1,4 @@
-# node-js-install-ubuntu-server
+# HOW TO INSTALL NODE JS V22.5.1 AND NPM V10.8.2
 
 ## installs fnm (Fast Node Manager)
 ```bash
