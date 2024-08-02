@@ -17,10 +17,10 @@ fnm use --install-if-missing 22
 
 ## verifies the right Node.js version is in the environment
 ```bash
-node -v # should print `v22.5.1`
+node -v
 ```
 
 ## verifies the right npm version is in the environment
 ```bash
-npm -v # should print `10.8.2`
+npm -v
 ```
